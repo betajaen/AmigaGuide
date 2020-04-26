@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>0.0.2</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Robin Southern</Authors>
+    <Company>Robin Southern</Company>
+    <Description>.NET Core Library To Write Amiga Guide Files</Description>
+    <Copyright>(c) Robin Southern 2020</Copyright>
+    <PackageLicenseFile></PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/betajaen/AmigaGuide</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/betajaen/AmigaGuide</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>AmigaGuide, Amiga</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
